@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## API Used
+https://insurance-czrh.onrender.com/calculate-premium
+Example
+Payload : 
+{
+	"member_ages" : [35,35],
+	"sum_insured" : [300000,300000],
+	"city_tier" : [1,1],
+	"tenure" : [1,2]
+}
+
+Response : 
+{
+	"premium": 18778.0
+}
+
 ## Available Scripts
 
 In the project directory, you can run:
