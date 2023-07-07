@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OneAssure-FrontEnd/static/css/main.315ff93c.css",
+    "main.js": "/OneAssure-FrontEnd/static/js/main.9badd348.js",
+    "static/js/787.63c9aae8.chunk.js": "/OneAssure-FrontEnd/static/js/787.63c9aae8.chunk.js",
+    "index.html": "/OneAssure-FrontEnd/index.html",
+    "main.315ff93c.css.map": "/OneAssure-FrontEnd/static/css/main.315ff93c.css.map",
+    "main.9badd348.js.map": "/OneAssure-FrontEnd/static/js/main.9badd348.js.map",
+    "787.63c9aae8.chunk.js.map": "/OneAssure-FrontEnd/static/js/787.63c9aae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.315ff93c.css",
+    "static/js/main.9badd348.js"
+  ]
+}
