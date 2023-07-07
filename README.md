@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## API Used
-https://insurance-czrh.onrender.com/calculate-premium
-\ Example \
+https://insurance-czrh.onrender.com/calculate-premium \
+Example \
 Payload : \
 {
 	"member_ages" : [35,35],
