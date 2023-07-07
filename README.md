@@ -4,16 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## API Used
 https://insurance-czrh.onrender.com/calculate-premium
-Example
-Payload : 
+\ Example \
+Payload : \
 {
 	"member_ages" : [35,35],
 	"sum_insured" : [300000,300000],
 	"city_tier" : [1,1],
 	"tenure" : [1,2]
 }
-
-Response : 
+\
+Response : \
 {
 	"premium": 18778.0
 }
